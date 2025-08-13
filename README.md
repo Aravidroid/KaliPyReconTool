@@ -1,7 +1,7 @@
-# KaliPyReconMate
+# KaliPyReconTool
 **Kali Linux + Python hybrid recon and vulnerability scanning toolkit**
 
-KaliPyReconMate is an automation framework that combines popular Kali Linux reconnaissance tools with custom Python vulnerability checks. It streamlines both passive and active scanning into a single workflow and saves results in a timestamped report directory.
+KaliPyReconTool is an automation framework that combines popular Kali Linux reconnaissance tools with custom Python vulnerability checks. It streamlines both passive and active scanning into a single workflow and saves results in a timestamped report directory.
 
 > ⚠ **Legal Disclaimer**  
 > This tool is for authorized security testing and educational purposes only.  
